@@ -27,6 +27,7 @@ Teen Spirit - Nirvana", "Imagine - John Lennon", "One - U2", "Billie Jean - Mich
 Jackson"]}
 ```
 
-It is also possible to request songs and to leave a message to the DJ
+It is also possible to request songs and to leave a message to the DJ.
 
-[![Demo funlab](demo.jpg)](screencast.mp4)
+Click on the image to see a video demo
+[![Demo funlab](demo.jpg)](https://raw.githubusercontent.com/Zap123/funlab-open/master/screencast.mp4?token=GHSAT0AAAAAACDS2QIYYS5LD23Y4ZIS52Z6ZD7T3OQ)
