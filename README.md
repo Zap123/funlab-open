@@ -16,8 +16,11 @@ Text can be used to send a message to all participants, color will change the sc
 The followings are some examples of the message format: 
 
 {"action":"text", "parameters":["put your hands in the air!"]}
+
 {"action":"color", "parameters":["red"]}
+
 {"action":"color", "parameters":["green"]}
+
 {"action":"experiment", "parameters":["What is your favorite song?", "Smells Like
 Teen Spirit - Nirvana", "Imagine - John Lennon", "One - U2", "Billie Jean - Micheal
 Jackson"]}
