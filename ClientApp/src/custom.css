@@ -1,0 +1,62 @@
+/* Provide sufficient contrast against white background */
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+body {
+    font-family: sans-serif;
+    color: #F4F6F3;
+    background: rgb(39,2,69);
+    background: linear-gradient(90deg, rgba(39,2,69,1) 0%, rgba(135,26,133,1) 35%, rgba(255,41,65,1) 100%); 
+}
+
+a {
+    color: #FEFF38
+}
+
+body {
+    background-color: #222;
+}
+
+.shaky {
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-size: 120% 100%;
+
+
+    animation: .8s shake infinite alternate;
+}
+
+@keyframes shake {
+    0% { transform: skewX(-15deg); }
+    5% { transform: skewX(15deg); }
+    10% { transform: skewX(-15deg); }
+    15% { transform: skewX(15deg); }
+    20% { transform: skewX(0deg); }
+    100% { transform: skewX(0deg); }
+}
+
+
+#monitorscreen {
+    background-color: rgba(119,119,119,0.5) ;
+    max-height: 100%;
+    border: thick solid rgba(0, 0, 0, .5);
+}
+
+
