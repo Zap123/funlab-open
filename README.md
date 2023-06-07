@@ -29,5 +29,5 @@ Jackson"]}
 
 It is also possible to request songs and to leave a message to the DJ.
 
-Click on the image to see a video demo
+Click on the image to see a demo
 [![Demo funlab](demo.jpg)](https://raw.githubusercontent.com/Zap123/funlab-open/master/screencast.mp4?token=GHSAT0AAAAAACDS2QIYYS5LD23Y4ZIS52Z6ZD7T3OQ)
